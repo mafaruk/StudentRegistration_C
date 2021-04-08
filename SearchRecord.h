@@ -1,0 +1,3 @@
+
+stud searchRecord();
+int confirmation();
